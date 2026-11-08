@@ -1,0 +1,6 @@
+{
+  "name": "Gracias por decir que si mi niña - Nuestro primer álbum",
+  "description": "Una sorpresa romántica y elegante con acceso secreto a 'Nuestro primer álbum' y recuerdos especiales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
